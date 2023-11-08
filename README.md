@@ -12,7 +12,7 @@ Run the code from the github repo directory, having loaded the conda environment
 Create a "data/" directory containing the images you want to use, feel free to use the code I created but do not forget YOU create YOUR identity ;)
 
 - IDENTITY.py: code to create the images triptych using three openstreetmap screenshots.
-- PAST.py: code that creates the PAST video, using a mix of openstreetmap screenshots (inside the data/journey/ directory), and photos (inside the data/journey_photos/ directory).
+- PAST.py: code that creates the PAST video, using a mix of openstreetmap screenshots (loads the images inside the data/journey/ directory), and photos (loads the images inside the data/journey_photos/ directory).
 - Spacetime.py: code to create the spacetime plot images, and turn them into a video. (part of the FUTURE video)
-- Vesuvius.py: code to blur the videos inside the data/vesuvius/ directory. (part of the FUTURE video)
+- Vesuvius.py: code to blur the videos present inside the data/vesuvius/ directory. (part of the FUTURE video)
 - Feel free to create a video with these output with your favourite video editor :)
