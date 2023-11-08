@@ -16,3 +16,4 @@ Create a "data/" directory containing the images you want to use, feel free to u
 - Spacetime.py: code to create the spacetime plot images, and turn them into a video. (part of the FUTURE video)
 - Vesuvius.py: code to blur the videos present inside the data/vesuvius/ directory. (part of the FUTURE video)
 - Feel free to create a video with these output with your favourite video editor :)
+
