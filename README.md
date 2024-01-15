@@ -7,6 +7,34 @@ This deterministic perspective is paradoxically challenged by the theme of the �
 
 Through the deconstruction of past influences, and the reconstruction of a synthetic future identity, the installation “How-I-create-my-identity” invites the viewer to reflect on the formation of their own identity. The videos and images are presented under the license Open Data Commons Open Database License (ODbL), and all the code used to generate the installation is freely available on GitHub (https://github.com/Mass23/How-I-create-my-identity).
 
+"""
+I found the needle in the haystack
+A thousand billion years ago
+
+A defining moment
+A precise occasion
+A breach in the universe
+A glimpse into the truth
+
+I lost my nightmares in my dreams
+A thousand billion times over
+
+I heard god is now the devil
+I heard god is now the devil
+
+Everything in the universe aligned to perfection
+
+I gave my body to the fire
+A thousand billion years from now
+
+A restoring moment
+A bath onto the moon
+A breach in the universe
+A glimpse into the next one
+"""
+
+
+
 ## How to run the code
 Run the code from the github repo directory, having loaded the conda environment beforehand.
 Create a "data/" directory containing the images you want to use, feel free to use the code I created but do not forget YOU create YOUR identity ;)
