@@ -33,8 +33,6 @@ A breach in the universe
 A glimpse into the next one
 """
 
-
-
 ## How to run the code
 Run the code from the github repo directory, having loaded the conda environment beforehand.
 Create a "data/" directory containing the images you want to use, feel free to use the code I created but do not forget YOU create YOUR identity ;)
